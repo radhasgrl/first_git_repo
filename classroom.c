@@ -724,11 +724,7 @@ int main() {
         }
         printf("\n");
     }
-44-[to print prime numbers between 1 to 500]
 
-    int n,i,temp;
-    for (n = 2 ; n<=500 ; n++)
 */
-
     return 0;
 }
